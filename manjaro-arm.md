@@ -7,7 +7,7 @@ caption: 'Το ARM Linux είναι ένα open-source λειτουργικό π
 license_url: 'https://fossbytes.com/manjaro-linux-arm-20-04-download-features/'
 license_text: FOSSBYTES
 categories:
-  - Λειτουργικά Συστήματα και Εφαρμογές
+  - Μέθοδος
 tags:
   - rasbery-pi
   - GPIO control module
