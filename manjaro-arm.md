@@ -1,13 +1,14 @@
 ---
 author: P2019SARAKATSANIS   
-image_url: /images/manjaro-arm.png
-title: Manjaro Arm
-year: 2016
-caption: 'Το ARM Linux είναι ένα open-source λειτουργικό που χρησιμοποιούν αμέτρητες μικροσυσκευές όπως το raspbery pi. Είναι εξαιρετικά προσαρμόσιμο, εύκολο στην κατανόηση του και αποτελεσματικό, καθιστώντας το ιδανική επιλογή για πολλές συσκευές που απαιτούν χαμηλή κατανάλωση ενέργειας και υψηλή απόδοση.'
-license_url: 'https://fossbytes.com/manjaro-linux-arm-20-04-download-features/'
-license_text: FOSSBYTES
+image_url: /images/grammarly.png
+title: Grammarly
+year: 2009
+caption: 'To Grammarly είναι ένας εργαλείο γραφής κειμένου με τεχνητή νοημοσύνη που βοηθά τους χρήστες να βελτιώσουν τη γραφή τους εντοπίζοντας και διορθώνοντας λάθη γραμματικής, ορθογραφίας, στίξης και στυλ σε πραγματικό χρόνο. Χρησιμοποιεί επεξεργασία φυσικής γλώσσας (NLP) και αλγόριθμους μηχανικής μάθησης για την ανάλυση κειμένου και την παροχή προτάσεων για βελτίωση, προσφαίροντας έτσι στον χρήστη ένα εύχριστο περιβάλλον και ανώτερη ποιότητα γραφής κειμένου.'
+license_url: 'https://en.wikipedia.org/wiki/Grammarly'
+license_text: Courtesy of wikimedia
 categories:
-  - Μέθοδος
+  - Τεχνητή Νοημοσύνη
+  - Μοντέλα
 tags:
   - rasbery-pi
   - GPIO control module
