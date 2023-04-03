@@ -9,8 +9,8 @@ license_text: Courtesy of wikimedia
 categories:
   - Τεχνητή Νοημοσύνη
   - Μοντέλα
+  - editor
 tags:
-  - rasbery-pi
-  - GPIO control module
-  - Linux
+  - ΑΙ
+  - Επεκεργασία κειμένου 
 ---
